@@ -1,0 +1,10 @@
+p {
+    word-wrap: break-word
+}
+
+#time {
+    margin-top: -15px;
+    font-size: 13px;
+    font-weight: bold;
+    color: cadetblue;
+}
